@@ -42,8 +42,10 @@ This solution is a employee tracker that currently suggests optimum distance and
 <p align="center">
 
   ![Frontend](https://github.com/shatakshii25/Ecell_Hackathon/blob/1b38ff24f243e696bf7e1b9aa30784d4dc26f4e5/screenshots/SignInPage.jpeg)
+  ![Frontend](https://github.com/shatakshii25/Ecell_Hackathon/blob/40fa39ca1a275fcc583f4bf3be5c435113f4c28c/screenshots/UserDetails.jpeg)
   ![FrontEnd](https://github.com/Abhiram970/Ecell_Hackathon/blob/949c4b12bcebf5839d18c6b7e71fced8bee3ccf4/screenshots/FrontEnd.jpg)
   ![frontend](https://github.com/Abhiram970/Ecell_Hackathon/blob/949c4b12bcebf5839d18c6b7e71fced8bee3ccf4/screenshots/FrontEnd-II.jpg)
+  ![frontend](https://github.com/shatakshii25/Ecell_Hackathon/blob/40fa39ca1a275fcc583f4bf3be5c435113f4c28c/screenshots/Directions.jpeg)
 
 </p>
 
